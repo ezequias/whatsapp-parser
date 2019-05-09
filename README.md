@@ -22,8 +22,9 @@ A Whatsapp chat history file and an optional list of regular expression patterns
 - Open your terminal and execute:
 
 ```
-python chat.py -f chat.txt -p WhatsApp -n "Nikolas Moya" -r [regex. patterns]
+python wp_chat.py -f chat.txt -p WhatsApp -n "Nikolas Moya" -r [regex. patterns]
 ```
+"Nikolas Moya" is the root user you want to analyse.
 
 ### Example ###
 ```
